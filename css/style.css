@@ -1,0 +1,59 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid black; /* Borde delgado color negro */
+}
+
+table th {
+  background-color: lightblue; /* Fondo azul para el encabezado */
+  color: black; /* Texto negro en el encabezado */
+  font-weight: bold; /* Grosor del encabezado */
+}
+
+table th, table td {
+  padding: 10px; /* Espaciado interior */
+  text-align: left; /* Alineación del texto en celdas */
+}
+
+div {
+  padding: 15px;
+}
+
+/* Estilo de los botones */
+.btn {
+  padding: 10px 20px; /* Espaciado interior */
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+div {
+  width: 55%;
+}
+
+.text_class {
+  font-size: 18px;
+}
+
+.btn-warning {
+  background-color: #FFD700; /* Botón de color mostaza */
+  color: black;
+  border-radius: 5px;
+}
+
+.btn-primary {
+  background-color: blue; /* Botón de color azul */
+  color: white;
+  border-radius: 5px;
+}
+
+.btn-danger {
+  background-color: red; /* Botón de color rojo */
+  color: white;
+  border-radius: 5px;
+}
+
+.input_class {
+  width: 75%;
+  font-size: 18px;
+}
